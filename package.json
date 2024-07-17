@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@airplanegobrr/database": "^2.5.2",
+    "@distube/ytdl-core": "^4.13.5",
     "axios": "^1.6.8",
     "body-parser": "^1.20.2",
     "canvas": "^2.11.2",
@@ -30,7 +31,6 @@
     "spotify-web-api-node": "^5.0.2",
     "string-progressbar": "^1.0.4",
     "tmi.js": "^1.8.5",
-    "yt-search": "^2.11.1",
-    "ytdl-core": "^4.11.5"
+    "yt-search": "^2.11.1"
   }
 }
