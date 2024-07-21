@@ -1,7 +1,9 @@
 {
 	"adminToken": "PASSWORD",
-	"token": "DISCORD_TOKEN",
 	"connectionString": "mysql://localhost/magna",
+	"discord": {
+		"token": "DISCORD_TOKEN"
+	},
 	"spotify": {
 		"clientID": "xxxx",
 		"clientSecret": "xxxx"
